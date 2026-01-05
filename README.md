@@ -7,7 +7,7 @@ Repo utilizado para elaborar el trabajo en equipo para la asignatura "Programaci
 de la Universitat de València durante el curso 2025-2026. 
 La página web de la asignatura puede verse aquí: https://perezp44.github.io/intro-ds-25-26-web/.
 
-La versión final del trabajo puede visualizarse en: https://sararubio19.github.io/trabajo_BigData_equipo_/. 
+La versión final del trabajo puede visualizarse en: https://sararubio19.github.io/trabajo_BigData_equipo/. 
 
 
 Los autores del trabajo somos Jaume, Isabella y Sara (saruro@alumni.uv.es)
